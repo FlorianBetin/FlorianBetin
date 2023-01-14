@@ -1,8 +1,8 @@
-###  :boom: Welcome on my junior github profile, I'm Florian Bétin :boom:
+##  :boom: Welcome on my junior github profile, I'm Florian Bétin :boom:
 
 After several years as a content producer and artist team director, I've decided to aquire more technical knowledge to boost my career! That's why I'm currently training at the Wild Code School to become a FullStack Web Developer, even though I feel like I prefer Back-end :heartpulse:.  
 
-## 🤔 I’m currently learning these languages:
+### 🤔 I’m currently learning these languages:
 -HTML
 -CSS
 -PHP
