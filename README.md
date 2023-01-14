@@ -1,4 +1,12 @@
-### Hi there 👋
+### Welcome on my junior github profile, I'm Florian Bétin 👋
+
+After several years as a content producer and artist team director, I've decided to aquire more technical knowledge to boost my career! That's why I'm currently training at the Wild Code School to become a FullStack Web Developer. 
+
+🤔 I’m currently learning these languages:
+HTML/CSS/PHP/JAVASCRIPT/SYMPHONY/TWIG
+
+:grin: But soon, if I get my internship and continue my training, I'll learn:
+React.jd/node.js
 
 <!--
 **FlorianBetin/FlorianBetin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
